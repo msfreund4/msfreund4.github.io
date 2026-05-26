@@ -37,6 +37,7 @@ We are proud of the many students, postdoctoral fellows, and research associates
 | Ryan Greene | [LinkedIn](https://www.linkedin.com/in/ryan-greene-b084752aa/) |
 | Danae Guerra | [LinkedIn](https://www.linkedin.com/in/danaeguerra/) |
 | Sarah Hachey | [Facebook](https://www.facebook.com/sarah.hachey1) |
+| Natalia Healey | — |
 | Eftekhar Hossain | [LinkedIn](http://ca.linkedin.com/pub/eftekhar-hossain/27/776/a9a) |
 | Chen-Chan Hsueh (Charlie) | — |
 | Augustine Iyogun (Akin) | [LinkedIn](http://linkedin.com/in/akin-augustine-iyogun-ph-d-31165867) |

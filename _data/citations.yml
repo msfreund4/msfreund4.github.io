@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-12'
+  last_updated: '2026-06-19'
 papers:
   TqBiQxgAAAAJ:-7ulzOJl1JYC:
     citations: 0
@@ -130,7 +130,7 @@ papers:
     title: Controlling volatility in solid-state, redox-based memory devices using heterojunction barriers to ion transport
     year: '2012'
   TqBiQxgAAAAJ:6ZxmRoH8BuwC:
-    citations: 99
+    citations: 100
     title: Materials properties of out-of-plane heterostructures of MoS2-WSe2 and WS2-MoSe2
     year: '2016'
   TqBiQxgAAAAJ:6_hjMsCP8ZoC:
@@ -138,7 +138,7 @@ papers:
     title: Electronic/Ionic Conducting Bipolar Membranes for Solar Fuel Production under pH Gradients
     year: Unknown Year
   TqBiQxgAAAAJ:6yz0xqPARnAC:
-    citations: 201
+    citations: 202
     title: Recent advances in bipolar membrane design and applications
     year: '2020'
   TqBiQxgAAAAJ:8AbLer7MMksC:
@@ -150,7 +150,7 @@ papers:
     title: Sensor arrays for detecting analytes in fluids
     year: '2004'
   TqBiQxgAAAAJ:8k81kl-MbHgC:
-    citations: 160
+    citations: 162
     title: Mechanism of the carbon catalyzed reduction of nitrobenzene by hydrazine
     year: '2000'
   TqBiQxgAAAAJ:9Nmd_mFXekcC:
@@ -386,7 +386,7 @@ papers:
     title: Conducting Polymer for Electronic, Photonic and Electromechanical Systems
     year: '2010'
   TqBiQxgAAAAJ:PYBJJbyH-FwC:
-    citations: 92
+    citations: 93
     title: A review on advanced sensing materials for agricultural gas sensors
     year: '2021'
   TqBiQxgAAAAJ:QIV2ME_5wuYC:
@@ -450,11 +450,11 @@ papers:
     title: 'Electrolytic actuators: Alternative, high-performance, material-based devices'
     year: '2002'
   TqBiQxgAAAAJ:UeHWp8X0CEIC:
-    citations: 248
+    citations: 249
     title: Reaction of pyrrole and chlorauric acid a new route to composite colloids
     year: '2001'
   TqBiQxgAAAAJ:UebtZRa9Y70C:
-    citations: 338
+    citations: 339
     title: Self-doped conducting polymers
     year: '2007'
   TqBiQxgAAAAJ:UxriW0iASnsC:
@@ -514,7 +514,7 @@ papers:
     title: Doping-density dependence of scanning tunneling spectroscopy on lightly doped silicon
     year: '1998'
   TqBiQxgAAAAJ:Zph67rFs4hoC:
-    citations: 77
+    citations: 78
     title: Reactivity of Poly (anilineboronic acid) with NAD+ and NADH
     year: '2005'
   TqBiQxgAAAAJ:ZuybSZzF8UAC:
@@ -526,7 +526,7 @@ papers:
     title: "Materials properties of out-of-plane heterostructures of MoS\u2082-WSe\u2082 and WS\u2082-MoSe\u2082"
     year: '2016'
   TqBiQxgAAAAJ:_5tno0g5mFcC:
-    citations: 112
+    citations: 113
     title: Current developments in silicene and germanene
     year: '2016'
   TqBiQxgAAAAJ:_FM0Bhl9EiAC:
@@ -538,11 +538,11 @@ papers:
     title: Metastable reaction mixtures for the in situ polymerization of conducting polymers
     year: '2007'
   TqBiQxgAAAAJ:_Re3VWB3Y0AC:
-    citations: 166
+    citations: 167
     title: 'XPS spectra of uranyl minerals and synthetic uranyl compounds. II: The O 1s spectrum'
     year: '2009'
   TqBiQxgAAAAJ:_axFR9aDTf0C:
-    citations: 147
+    citations: 148
     title: Graphene oxide as a water dissociation catalyst in the bipolar membrane interfacial layer
     year: '2014'
   TqBiQxgAAAAJ:_kc_bZDykSQC:
@@ -574,7 +574,7 @@ papers:
     title: 'Controlled Chemical Polymerization Method for Processing Conducting Polymers: First Year Progress Report'
     year: '2005'
   TqBiQxgAAAAJ:bz8QjSJIRt4C:
-    citations: 171
+    citations: 170
     title: "Use of bipolar membranes for maintaining steady\u2010state ph gradients in membrane\u2010supported, solar\u2010driven water splitting"
     year: '2014'
   TqBiQxgAAAAJ:ce2CqMG-AY4C:
@@ -658,7 +658,7 @@ papers:
     title: "Field\u2010Induced Carrier Generation in Conjugated Polymer Semiconductors for Dynamic, Asymmetric Junctions"
     year: '2008'
   TqBiQxgAAAAJ:isC4tDSrTZIC:
-    citations: 130
+    citations: 131
     title: Development of carbon dioxide (CO2) sensor for grain quality monitoring
     year: '2010'
   TqBiQxgAAAAJ:j3f4tGmQtD8C:
@@ -686,7 +686,7 @@ papers:
     title: 'Electrochemically assisted self-assembly of alkylthiosulfates and alkanethiols on gold: the role of gold oxide formation and corrosion'
     year: '2010'
   TqBiQxgAAAAJ:kh2fBNsKQNwC:
-    citations: 190
+    citations: 191
     title: Large enhancement and tunable band gap in silicene by small organic molecule adsorption
     year: '2014'
   TqBiQxgAAAAJ:lSLTfruPkqcC:
@@ -770,7 +770,7 @@ papers:
     title: An integrated chemical sensor array using carbon black polymers and a standard CMOS process
     year: '2000'
   TqBiQxgAAAAJ:r_AWSJRzSzQC:
-    citations: 190
+    citations: 193
     title: 'XPS spectra of uranyl minerals and synthetic uranyl compounds. I: The U 4f spectrum'
     year: '2009'
   TqBiQxgAAAAJ:roLk4NBRz8UC:
@@ -786,7 +786,7 @@ papers:
     title: Interfacial Electrochemical Polymerization of PEDOT@ Polyoxometalates Thin Films As Electroactive Material for Energy Storage Devices
     year: '2023'
   TqBiQxgAAAAJ:tKAzc9rXhukC:
-    citations: 101
+    citations: 102
     title: A wireless passive sensor for temperature compensated remote pH monitoring
     year: '2013'
   TqBiQxgAAAAJ:tOudhMTPpwUC:
@@ -802,7 +802,7 @@ papers:
     title: Electron transfer dynamics in nanocrystalline titanium dioxide solar cells sensitized with ruthenium or osmium polypyridyl complexes
     year: '2001'
   TqBiQxgAAAAJ:u5HHmVD_uO8C:
-    citations: 503
+    citations: 504
     title: A chemically diverse conducting polymer-based" electronic nose".
     year: '1995'
   TqBiQxgAAAAJ:u9iWguZQMMsC:

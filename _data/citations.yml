@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-06-24'
+  last_updated: '2026-07-15'
 papers:
   TqBiQxgAAAAJ:-7ulzOJl1JYC:
     citations: 0
     title: Advanced Electrochemical Impedance Analysis Using Distribution of Relaxation Times for in Operando Mechanistic Insights of Fuel Cell and Water Electrolyzer Designs
     year: '2022'
   TqBiQxgAAAAJ:-95Q15plzcUC:
-    citations: 7
+    citations: 8
     title: Impact of cell design and conditioning on polymer electrolyte membrane water electrolyzer operation
     year: '2024'
   TqBiQxgAAAAJ:-_dYPAW6P2MC:
@@ -14,7 +14,7 @@ papers:
     title: 'Dissolution of uranophane: An AFM, XPS, SEM and ICP study'
     year: '2009'
   TqBiQxgAAAAJ:-f6ydRqryjwC:
-    citations: 41
+    citations: 42
     title: 'Conducting Poly (anilineboronic acid) nanostructures: controlled synthesis and characterization'
     year: '2008'
   TqBiQxgAAAAJ:-jrNzM816MMC:
@@ -66,7 +66,7 @@ papers:
     title: Supplementary Material Section (Manuscript Z14044)
     year: '2000'
   TqBiQxgAAAAJ:2osOgNQ5qMEC:
-    citations: 348
+    citations: 349
     title: Potentiometric saccharide detection based on the p K a changes of poly (aniline boronic acid)
     year: '2002'
   TqBiQxgAAAAJ:2tRrZ1ZAMYUC:
@@ -78,7 +78,7 @@ papers:
     title: DETERMINATION OF SURFACE EXCESS AND SURFACE CONCENTRATION IN THE PRESENCE OF WEAK ADSORPTION USING SEMIINTEGRAL ANALYSIS OF CYCLIC VOLTAMMETRY
     year: '1992'
   TqBiQxgAAAAJ:3bvyWxjaHKcC:
-    citations: 0
+    citations: 1
     title: A Versatile Time-Domain Winner-Take-All Spike Decoder for Neuromorphic Systems
     year: '2025'
   TqBiQxgAAAAJ:3fE2CSJIrl8C:
@@ -110,7 +110,7 @@ papers:
     title: "Synthesis and electrochemical properties of poly (aniline boronic acid): a novel transduction method for a non-enzymatic glucose sensor and a precursor route to substituted \u2026"
     year: '2001'
   TqBiQxgAAAAJ:4hFrxpcac9AC:
-    citations: 52
+    citations: 53
     title: Reduced graphene oxide bipolar membranes for integrated solar water splitting in optimal pH
     year: '2015'
   TqBiQxgAAAAJ:4vMrXwiscB8C:
@@ -138,7 +138,7 @@ papers:
     title: Electronic/Ionic Conducting Bipolar Membranes for Solar Fuel Production under pH Gradients
     year: Unknown Year
   TqBiQxgAAAAJ:6yz0xqPARnAC:
-    citations: 202
+    citations: 205
     title: Recent advances in bipolar membrane design and applications
     year: '2020'
   TqBiQxgAAAAJ:8AbLer7MMksC:
@@ -150,7 +150,7 @@ papers:
     title: Sensor arrays for detecting analytes in fluids
     year: '2004'
   TqBiQxgAAAAJ:8k81kl-MbHgC:
-    citations: 162
+    citations: 163
     title: Mechanism of the carbon catalyzed reduction of nitrobenzene by hydrazine
     year: '2000'
   TqBiQxgAAAAJ:9Nmd_mFXekcC:
@@ -286,7 +286,7 @@ papers:
     title: A Polypyrrole/Phosphomolybdic Acid| Poly
     year: '2010'
   TqBiQxgAAAAJ:KaMxkj08jr0C:
-    citations: 40
+    citations: 42
     title: "Investigation of Water Oxidation at IrO2 Electrodes in Nafion-Based Membrane Electrode Assemblies Using Impedance Spectroscopy and Distribution of \u2026"
     year: '2022'
   TqBiQxgAAAAJ:KbBQZpvPDL4C:
@@ -302,7 +302,7 @@ papers:
     title: Electrode potential-based coupled coil sensor for remote pH monitoring
     year: '2011'
   TqBiQxgAAAAJ:L8Ckcad2t8MC:
-    citations: 30
+    citations: 31
     title: Thermal stability of high molecular weight self-doped poly (anilineboronic acid)
     year: '2005'
   TqBiQxgAAAAJ:LhH-TYMQEocC:
@@ -334,7 +334,7 @@ papers:
     title: Electrochemical and quartz crystal microbalance evidence for mediation and direct electrochemical reactions of small molecules at Tetrathiafulvalene-Te
     year: '1990'
   TqBiQxgAAAAJ:Mojj43d5GZwC:
-    citations: 24
+    citations: 25
     title: Comparison between the electrical junction properties of H-terminated and methyl-terminated individual Si microwire/polymer assemblies for photoelectrochemical fuel production
     year: '2012'
   TqBiQxgAAAAJ:NJ774b8OgUMC:
@@ -370,11 +370,11 @@ papers:
     title: A semantic characterization of disjunctive relations
     year: '1991'
   TqBiQxgAAAAJ:ODE9OILHJdcC:
-    citations: 35
+    citations: 37
     title: "Catalytic, Conductive Bipolar Membrane Interfaces through Layer\u2010by\u2010Layer Deposition for the Design of Membrane\u2010Integrated Artificial Photosynthesis Systems"
     year: '2017'
   TqBiQxgAAAAJ:OR75R8vi5nAC:
-    citations: 545
+    citations: 548
     title: 'Polythiophene: from fundamental perspectives to applications'
     year: '2017'
   TqBiQxgAAAAJ:OTTXONDVkokC:
@@ -386,7 +386,7 @@ papers:
     title: Conducting Polymer for Electronic, Photonic and Electromechanical Systems
     year: '2010'
   TqBiQxgAAAAJ:PYBJJbyH-FwC:
-    citations: 93
+    citations: 94
     title: A review on advanced sensing materials for agricultural gas sensors
     year: '2021'
   TqBiQxgAAAAJ:QIV2ME_5wuYC:
@@ -394,11 +394,11 @@ papers:
     title: Nanoparticle-based sensors for detecting analytes in fluids
     year: '2004'
   TqBiQxgAAAAJ:QYdC8u9Cj1oC:
-    citations: 78
+    citations: 79
     title: Designing electronic/ionic conducting membranes for artificial photosynthesis
     year: '2011'
   TqBiQxgAAAAJ:QyXJ3EUuO1IC:
-    citations: 10
+    citations: 11
     title: Artificial olfactory signal modulation for detection in changing environments
     year: '2023'
   TqBiQxgAAAAJ:R3hNpaxXUhUC:
@@ -426,7 +426,7 @@ papers:
     title: Electrolytic phase transformation actuators [4878-03]
     year: '2002'
   TqBiQxgAAAAJ:Se3iqnhoufwC:
-    citations: 86
+    citations: 87
     title: Saccharide imprinting of poly (aniline boronic acid) in the presence of fluoride
     year: '2003'
   TqBiQxgAAAAJ:SeFeTyx0c_EC:
@@ -454,7 +454,7 @@ papers:
     title: Reaction of pyrrole and chlorauric acid a new route to composite colloids
     year: '2001'
   TqBiQxgAAAAJ:UebtZRa9Y70C:
-    citations: 340
+    citations: 342
     title: Self-doped conducting polymers
     year: '2007'
   TqBiQxgAAAAJ:UxriW0iASnsC:
@@ -478,7 +478,7 @@ papers:
     title: Characterization of volatile organic compounds released by granivorous insects in stored wheat
     year: '2012'
   TqBiQxgAAAAJ:WJVC3Jt7v1AC:
-    citations: 15
+    citations: 16
     title: Temporal responses of chemically diverse sensor arrays for machine olfaction using artificial intelligence
     year: '2016'
   TqBiQxgAAAAJ:Wp0gIr-vW9MC:
@@ -494,7 +494,7 @@ papers:
     title: 'Back Cover: Reduced Graphene Oxide Bipolar Membranes for Integrated Solar Water Splitting in Optimal pH (ChemSusChem 16/2015)'
     year: '2015'
   TqBiQxgAAAAJ:Y0pCki6q_DkC:
-    citations: 146
+    citations: 147
     title: 'A switchable self-doped polyaniline: interconversion between self-doped and non-self-doped forms'
     year: '2004'
   TqBiQxgAAAAJ:YOwf2qJgpHMC:
@@ -526,7 +526,7 @@ papers:
     title: "Materials properties of out-of-plane heterostructures of MoS\u2082-WSe\u2082 and WS\u2082-MoSe\u2082"
     year: '2016'
   TqBiQxgAAAAJ:_5tno0g5mFcC:
-    citations: 113
+    citations: 114
     title: Current developments in silicene and germanene
     year: '2016'
   TqBiQxgAAAAJ:_FM0Bhl9EiAC:
@@ -538,11 +538,11 @@ papers:
     title: Metastable reaction mixtures for the in situ polymerization of conducting polymers
     year: '2007'
   TqBiQxgAAAAJ:_Re3VWB3Y0AC:
-    citations: 168
+    citations: 170
     title: 'XPS spectra of uranyl minerals and synthetic uranyl compounds. II: The O 1s spectrum'
     year: '2009'
   TqBiQxgAAAAJ:_axFR9aDTf0C:
-    citations: 149
+    citations: 152
     title: Graphene oxide as a water dissociation catalyst in the bipolar membrane interfacial layer
     year: '2014'
   TqBiQxgAAAAJ:_kc_bZDykSQC:
@@ -562,7 +562,7 @@ papers:
     title: Fabrication of Conducting Polymer Hybrid Materials for Electrochemical Supercapacitors
     year: '2008'
   TqBiQxgAAAAJ:aqlVkmm33-oC:
-    citations: 166
+    citations: 167
     title: Porous conducting polymer/heteropolyoxometalate hybrid material for electrochemical supercapacitor applications
     year: '2008'
   TqBiQxgAAAAJ:bEWYMUwI8FkC:
@@ -574,11 +574,11 @@ papers:
     title: 'Controlled Chemical Polymerization Method for Processing Conducting Polymers: First Year Progress Report'
     year: '2005'
   TqBiQxgAAAAJ:bz8QjSJIRt4C:
-    citations: 171
+    citations: 173
     title: "Use of bipolar membranes for maintaining steady\u2010state ph gradients in membrane\u2010supported, solar\u2010driven water splitting"
     year: '2014'
   TqBiQxgAAAAJ:ce2CqMG-AY4C:
-    citations: 13
+    citations: 14
     title: "Operando Three-Electrode Analysis of Nafion-Based Polymer Electrolyte Membrane Water Electrolyzers\u2013Thermodynamic Relations"
     year: '2024'
   TqBiQxgAAAAJ:d1gkVwhDpl0C:
@@ -594,7 +594,7 @@ papers:
     title: 'Self-Assembly of Alkylthiosulfates on Gold: Role of Electrolyte and Trace Water in the Solvent'
     year: '2011'
   TqBiQxgAAAAJ:dhFuZR0502QC:
-    citations: 56
+    citations: 57
     title: "Self-doped polyaniline nanoparticle dispersions based on boronic acid\u2212 phosphate complexation"
     year: '2009'
   TqBiQxgAAAAJ:dshw04ExmUIC:
@@ -678,7 +678,7 @@ papers:
     title: Polymer-based micromachined chemicapacitor gas sensor on a temperature controlled platform
     year: '2011'
   TqBiQxgAAAAJ:kWvqk_afx_IC:
-    citations: 6
+    citations: 8
     title: Influence of the pH gradient on bipolar membrane operation
     year: '2024'
   TqBiQxgAAAAJ:k_IJM867U9cC:
@@ -706,9 +706,13 @@ papers:
     title: Interfacial Electrochemical Polymerization of PEDOT@ Polyoxometalates Thin Films As Electroactive Material for Energy Storage Devices
     year: '2023'
   TqBiQxgAAAAJ:mNrWkgRL2YcC:
-    citations: 93
+    citations: 94
     title: Membranes for artificial photosynthesis
     year: '2017'
+  TqBiQxgAAAAJ:mUJArPsKIAAC:
+    citations: 0
+    title: "Coupled Electronic and Ionic Conductivity in Strain\u2010Stiffening Hydrogels"
+    year: '2026'
   TqBiQxgAAAAJ:mVmsd5A6BfQC:
     citations: 41
     title: Scanning tunneling microscopy and atomic force microscopy in the characterization of activated graphite electrodes
@@ -758,7 +762,7 @@ papers:
     title: 'Chemically diverse modified electrodes: A new approach to the design and implementation of sensor arrays'
     year: '1999'
   TqBiQxgAAAAJ:qjMakFHDy7sC:
-    citations: 228
+    citations: 227
     title: 'Air oxidation of self-assembled monolayers on polycrystalline gold: the role of the gold substrate'
     year: '1998'
   TqBiQxgAAAAJ:qxL8FJ1GzNcC:
@@ -770,7 +774,7 @@ papers:
     title: An integrated chemical sensor array using carbon black polymers and a standard CMOS process
     year: '2000'
   TqBiQxgAAAAJ:r_AWSJRzSzQC:
-    citations: 193
+    citations: 196
     title: 'XPS spectra of uranyl minerals and synthetic uranyl compounds. I: The U 4f spectrum'
     year: '2009'
   TqBiQxgAAAAJ:roLk4NBRz8UC:
@@ -786,7 +790,7 @@ papers:
     title: Interfacial Electrochemical Polymerization of PEDOT@ Polyoxometalates Thin Films As Electroactive Material for Energy Storage Devices
     year: '2023'
   TqBiQxgAAAAJ:tKAzc9rXhukC:
-    citations: 102
+    citations: 101
     title: A wireless passive sensor for temperature compensated remote pH monitoring
     year: '2013'
   TqBiQxgAAAAJ:tOudhMTPpwUC:
@@ -798,7 +802,7 @@ papers:
     title: 'Nanocrystalline titanium dioxide solar cells sensitized with ruthenium or osmium polypyridyl complexes: Photoelectrochemical studies and electron transfer dynamics.'
     year: '2001'
   TqBiQxgAAAAJ:u-x6o8ySG0sC:
-    citations: 374
+    citations: 373
     title: Electron transfer dynamics in nanocrystalline titanium dioxide solar cells sensitized with ruthenium or osmium polypyridyl complexes
     year: '2001'
   TqBiQxgAAAAJ:u5HHmVD_uO8C:
@@ -826,7 +830,7 @@ papers:
     title: "Electrochemically Directed Self\u2010Assembly on Gold"
     year: '2000'
   TqBiQxgAAAAJ:umqufdRvDiIC:
-    citations: 18
+    citations: 19
     title: Covalent Attachment of Ferrocene to Silicon Microwire Arrays
     year: '2015'
   TqBiQxgAAAAJ:vV6vV6tmYwMC:
@@ -850,7 +854,7 @@ papers:
     title: 'Polyaniline as A Non-enzymatic Sugar Sensor: Potentiometric Sensors Based on the Inductive Effect on the pKa'
     year: Unknown Year
   TqBiQxgAAAAJ:xtoqd-5pKcoC:
-    citations: 41
+    citations: 40
     title: Fluid embeddable coupled coil sensor for wireless pH monitoring in a bioreactor
     year: '2013'
   TqBiQxgAAAAJ:yD5IFk8b50cC:
@@ -858,7 +862,7 @@ papers:
     title: Spatiotemporal and geometric optimization of sensor arrays for detecting analytes fluids
     year: '2006'
   TqBiQxgAAAAJ:yFnVuubrUp4C:
-    citations: 65
+    citations: 66
     title: Transparent bipolar membrane for water splitting applications
     year: '2017'
   TqBiQxgAAAAJ:yMeIxYmEMEAC:

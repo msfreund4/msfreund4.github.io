@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-20'
+  last_updated: '2026-07-22'
 papers:
   TqBiQxgAAAAJ:-7ulzOJl1JYC:
     citations: 0
@@ -66,7 +66,7 @@ papers:
     title: Supplementary Material Section (Manuscript Z14044)
     year: '2000'
   TqBiQxgAAAAJ:2osOgNQ5qMEC:
-    citations: 349
+    citations: 350
     title: Potentiometric saccharide detection based on the p K a changes of poly (aniline boronic acid)
     year: '2002'
   TqBiQxgAAAAJ:2tRrZ1ZAMYUC:
@@ -122,7 +122,7 @@ papers:
     title: 'Electroactivity of electrochemically synthesized poly (aniline boronic acid) as a function of pH: role of self-doping'
     year: '2004'
   TqBiQxgAAAAJ:5qfkUJPXOUwC:
-    citations: 25
+    citations: 26
     title: Chemical diversity in electrochemically deposited conducting polymer-based sensor arrays
     year: '2014'
   TqBiQxgAAAAJ:5ugPr518TE4C:
@@ -210,7 +210,7 @@ papers:
     title: "Corrigendum: Use of Bipolar Membranes for Maintaining Steady\u2010State pH Gradients in Membrane\u2010Supported, Solar\u2010Driven Water Splitting"
     year: '2015'
   TqBiQxgAAAAJ:F1b5ZUV5XREC:
-    citations: 39
+    citations: 40
     title: Vapor-fed electrolysis of water using earth-abundant catalysts in Nafion or in bipolar Nafion/poly (benzimidazolium) membranes
     year: '2019'
   TqBiQxgAAAAJ:F2UWTTQJPOcC:
@@ -230,7 +230,7 @@ papers:
     title: 'CHEMISORPTION, SURFACE REACTIONS, CATALYSIS, CLEAN SURFACES-Air Oxidation of Self-Assembled Monolayers on Polycrystalline Gold: The Role of the Gold Substrate'
     year: '1998'
   TqBiQxgAAAAJ:HDshCWvjkbEC:
-    citations: 53
+    citations: 54
     title: Biogenic amine vapour detection using poly (anilineboronic acid) films
     year: '2006'
   TqBiQxgAAAAJ:HIFyuExEbWQC:
@@ -286,7 +286,7 @@ papers:
     title: A Polypyrrole/Phosphomolybdic Acid| Poly
     year: '2010'
   TqBiQxgAAAAJ:KaMxkj08jr0C:
-    citations: 42
+    citations: 43
     title: "Investigation of Water Oxidation at IrO2 Electrodes in Nafion-Based Membrane Electrode Assemblies Using Impedance Spectroscopy and Distribution of \u2026"
     year: '2022'
   TqBiQxgAAAAJ:KbBQZpvPDL4C:
@@ -374,7 +374,7 @@ papers:
     title: "Catalytic, Conductive Bipolar Membrane Interfaces through Layer\u2010by\u2010Layer Deposition for the Design of Membrane\u2010Integrated Artificial Photosynthesis Systems"
     year: '2017'
   TqBiQxgAAAAJ:OR75R8vi5nAC:
-    citations: 549
+    citations: 551
     title: 'Polythiophene: from fundamental perspectives to applications'
     year: '2017'
   TqBiQxgAAAAJ:OTTXONDVkokC:
@@ -398,7 +398,7 @@ papers:
     title: Designing electronic/ionic conducting membranes for artificial photosynthesis
     year: '2011'
   TqBiQxgAAAAJ:QyXJ3EUuO1IC:
-    citations: 11
+    citations: 12
     title: Artificial olfactory signal modulation for detection in changing environments
     year: '2023'
   TqBiQxgAAAAJ:R3hNpaxXUhUC:
@@ -474,11 +474,11 @@ papers:
     title: Nonmonotonic inference operations
     year: '2002'
   TqBiQxgAAAAJ:VOx2b1Wkg3QC:
-    citations: 59
+    citations: 60
     title: Characterization of volatile organic compounds released by granivorous insects in stored wheat
     year: '2012'
   TqBiQxgAAAAJ:WJVC3Jt7v1AC:
-    citations: 16
+    citations: 17
     title: Temporal responses of chemically diverse sensor arrays for machine olfaction using artificial intelligence
     year: '2016'
   TqBiQxgAAAAJ:Wp0gIr-vW9MC:
@@ -538,11 +538,11 @@ papers:
     title: Metastable reaction mixtures for the in situ polymerization of conducting polymers
     year: '2007'
   TqBiQxgAAAAJ:_Re3VWB3Y0AC:
-    citations: 170
+    citations: 171
     title: 'XPS spectra of uranyl minerals and synthetic uranyl compounds. II: The O 1s spectrum'
     year: '2009'
   TqBiQxgAAAAJ:_axFR9aDTf0C:
-    citations: 153
+    citations: 154
     title: Graphene oxide as a water dissociation catalyst in the bipolar membrane interfacial layer
     year: '2014'
   TqBiQxgAAAAJ:_kc_bZDykSQC:
@@ -578,7 +578,7 @@ papers:
     title: "Use of bipolar membranes for maintaining steady\u2010state ph gradients in membrane\u2010supported, solar\u2010driven water splitting"
     year: '2014'
   TqBiQxgAAAAJ:ce2CqMG-AY4C:
-    citations: 14
+    citations: 15
     title: "Operando Three-Electrode Analysis of Nafion-Based Polymer Electrolyte Membrane Water Electrolyzers\u2013Thermodynamic Relations"
     year: '2024'
   TqBiQxgAAAAJ:d1gkVwhDpl0C:
@@ -754,7 +754,7 @@ papers:
     title: Tunable Diode
     year: '2010'
   TqBiQxgAAAAJ:q-HalDI95KYC:
-    citations: 38
+    citations: 39
     title: "Investigation of hydrogen oxidation and evolution reactions at porous Pt/C electrodes in Nafion-based membrane electrode assemblies using impedance spectroscopy and \u2026"
     year: '2021'
   TqBiQxgAAAAJ:qUcmZB5y_30C:
@@ -762,7 +762,7 @@ papers:
     title: 'Chemically diverse modified electrodes: A new approach to the design and implementation of sensor arrays'
     year: '1999'
   TqBiQxgAAAAJ:qjMakFHDy7sC:
-    citations: 227
+    citations: 225
     title: 'Air oxidation of self-assembled monolayers on polycrystalline gold: the role of the gold substrate'
     year: '1998'
   TqBiQxgAAAAJ:qxL8FJ1GzNcC:
@@ -774,7 +774,7 @@ papers:
     title: An integrated chemical sensor array using carbon black polymers and a standard CMOS process
     year: '2000'
   TqBiQxgAAAAJ:r_AWSJRzSzQC:
-    citations: 196
+    citations: 197
     title: 'XPS spectra of uranyl minerals and synthetic uranyl compounds. I: The U 4f spectrum'
     year: '2009'
   TqBiQxgAAAAJ:roLk4NBRz8UC:
@@ -790,11 +790,11 @@ papers:
     title: Interfacial Electrochemical Polymerization of PEDOT@ Polyoxometalates Thin Films As Electroactive Material for Energy Storage Devices
     year: '2023'
   TqBiQxgAAAAJ:tKAzc9rXhukC:
-    citations: 101
+    citations: 103
     title: A wireless passive sensor for temperature compensated remote pH monitoring
     year: '2013'
   TqBiQxgAAAAJ:tOudhMTPpwUC:
-    citations: 2
+    citations: 3
     title: Wireless Passive Sensor for Remote pH Monitoring
     year: '2011'
   TqBiQxgAAAAJ:tzM49s52ZIMC:
@@ -854,7 +854,7 @@ papers:
     title: 'Polyaniline as A Non-enzymatic Sugar Sensor: Potentiometric Sensors Based on the Inductive Effect on the pKa'
     year: Unknown Year
   TqBiQxgAAAAJ:xtoqd-5pKcoC:
-    citations: 40
+    citations: 42
     title: Fluid embeddable coupled coil sensor for wireless pH monitoring in a bioreactor
     year: '2013'
   TqBiQxgAAAAJ:yD5IFk8b50cC:

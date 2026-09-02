@@ -75,6 +75,16 @@ nav_order: 1
   <div class="col">
     <div class="card h-100">
       <div class="card-body">
+        <h5 class="card-title">Amaya Giraudier</h5>
+        <h6 class="card-subtitle mb-2 text-muted">Chemistry MSc Student</h6>
+        <p class="card-text">Artificial Photosynthesis</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="col">
+    <div class="card h-100">
+      <div class="card-body">
         <h5 class="card-title">Tian Xia</h5>
         <h6 class="card-subtitle mb-2 text-muted">Chemistry Undergraduate Student</h6>
         <p class="card-text">Artificial Photosynthesis</p>
